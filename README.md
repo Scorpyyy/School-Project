@@ -5,7 +5,7 @@
 
 ### Arlix James personal schoool project portfolio made with Angular & Tailwind
 
-## did u fking know that i've watch the entire 17 hrs on youtube, video that made by freecodecamp about "Angular for beginners" and with typescrpt djhkfgndjfgsfdjgndfjkg
++++did u fking know that i've watch the entire 17 hrs on youtube, video that made by freecodecamp about "Angular for beginners" and with typescrpt djhkfgndjfgsfdjgndfjkg+++
 
 (Vanilla CSS HATERS man) im planning to learn the basic function of firebase so i can determine the data!!!!!
 
