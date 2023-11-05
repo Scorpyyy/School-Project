@@ -23,6 +23,7 @@ module.exports = {
         "gradient-2": "#0066FF",
         "gradient-3": "#3b82f6",
         "gradient-4": "#06b6d4",
+        "gradient-5": "#0b29f5",
       },
     },
   },
