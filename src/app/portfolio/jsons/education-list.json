@@ -1,0 +1,22 @@
+[
+  {
+    "endDate": "Present",
+    "initialDate": "June 2022",
+    "institute": "ICT - Programming [ST. CLARE COLLEGE OF CALOOCAN CITY]",
+    "link": "https://stclarecollege.com/",
+    "title": "Senior High School"
+  },
+  {
+    "endDate": "September 2023",
+    "href": "https://www.freecodecamp.org/certification/ArlixJamesVillanueva/responsive-web-design",
+    "initialDate": "August 2023",
+    "institute": "freeCodeCamp",
+    "title": "Responsive Web Design Certification"
+  },
+  {
+    "endDate": "Present",
+    "initialDate": "November 2023",
+    "institute": "I don't want to learn JS deeply so i'm focusing on framework of it",
+    "title": "Major Framework's Of javascript"
+  }
+]

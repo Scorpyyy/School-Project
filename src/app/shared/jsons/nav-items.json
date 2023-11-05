@@ -1,0 +1,19 @@
+[
+  {
+    "href": "#",
+    "img": true
+  },
+  {
+    "href": "#projects",
+    "styles": "ml-auto",
+    "text": "Projects"
+  },
+  {
+    "href": "#education",
+    "text": "Education"
+  },
+  {
+    "href": "#skills",
+    "text": "Skills"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "alt": "Web That i made for my Ex",
+    "description": "At the present moment, we are no longer together, and as a result, this marks the first web project that I created for her last year. {don't mind the link i just don't have money for domain}",
+    "repo": "https://github.com/Scorpyyy/1st",
+    "src": "./assets/images/onlybub.png",
+    "technologies": ["CSS", "JavaScript", "HTML", "Testing"],
+    "title": "BUBonly",
+    "url": "https://gilded-narwhal-7bec0f.netlify.app/"
+  },
+  {
+    "alt": "Portfolio Test1",
+    "description": "Well this is what i'm making within 3 days on September but i didn't continue cuz i was doing something important TT but i will update this soon",
+    "repo": "https://github.com/Scorpyyy/test-proj1",
+    "src": "./assets/images/portfolio1st.png",
+    "technologies": ["HTML", "TailwindCSS", "JavaScript", "MySQL"],
+    "title": "Portfolio Test1",
+    "url": "https://scorpyyy.github.io/test-proj1/"
+  },
+  {
+    "alt": "",
+    "description": "",
+    "repo": "",
+    "src": "",
+    "technologies": ["JavaScript"],
+    "title": "",
+    "url": ""
+  }  
+]
