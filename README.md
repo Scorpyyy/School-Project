@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-![Version](https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### Arlix James personal schoool project portfolio made with Angular & Tailwind
