@@ -1,4 +1,4 @@
-# PersonalPortfolio
+# Project Portfolio
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -28,7 +28,3 @@ Run `ng build` to compile the production code, then run `npm run build:github` t
 ## Contributions
 
 ¡Feel free to made a new [issue](https://github.com/Scorpyyy)!
-
-## Help me
-
-¡Give me a ⭐ if you liked this project!
