@@ -28,7 +28,3 @@ Run `ng build` to compile the production code, then run `npm run build:github` t
 ## Contributions
 
 ¡Feel free to made a new [issue](https://github.com/Scorpyyy)!
-
-## Help me
-
-¡Give me a ⭐ if you liked this project!
