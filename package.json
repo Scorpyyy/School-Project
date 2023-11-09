@@ -11,7 +11,8 @@
     "test": "ng test",
     "delete:docs": "del docs",
     "copy:dist": "copyfiles dist/personal-portfolio/* ./docs -f",
-    "copy:assets": "copyfiles dist/personal-portfolio/assets/* ./docs/assets -f"
+    "copy:assets": "copyfiles dist/personal-portfolio/assets/* ./docs/assets -f",
+    "build-prod": "ng build --configuration production"
   },
   "private": true,
   "dependencies": {
