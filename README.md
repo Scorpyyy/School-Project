@@ -25,6 +25,14 @@ Run `ng serve` or `npm start` for a dev server. Then go to `https://localhost:42
 
 Run `ng build` to compile the production code, then run `npm run build:github` to create the `docs` file for Github Pages. Finally, commit the `docs` folder to finish the build.
 
+## Firebase
+
+Run `ng build--configuration production`
+
+then
+
+Run `firebase deploy`
+
 ## Contributions
 
 ¡Feel free to made a new [issue](https://github.com/Scorpyyy)!
