@@ -27,7 +27,7 @@ Run `ng build` to compile the production code, then run `npm run build:github` t
 
 ## Firebase
 
-Run `ng build--configuration production`
+Run `ng build --configuration production`
 
 then
 
