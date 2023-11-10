@@ -6,3 +6,7 @@
 .text-balance {
   text-wrap: balance;
 }
+
+.bg-custom-color {
+  background-color: #222527;
+}
