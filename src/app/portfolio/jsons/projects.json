@@ -18,12 +18,12 @@
     "url": "https://scorpyyy.github.io/test-proj1/"
   },
   {
-    "alt": "",
-    "description": "I'm making a album of me so yeah i'll update this soon as possible i'm just busy at school sht",
-    "repo": "",
-    "src": "",
-    "technologies": ["JavaScript"],
-    "title": "",
-    "url": ""
-  }  
+    "alt": "Album | Journal",
+    "description": "I'm making a album of my self so yeah i'll update this soon as possible but i'm just busy at school sht, i think it's good enough for starter ^^",
+    "repo": "https://github.com/Scorpyyy/Photo-albummm",
+    "src": "./assets/images/album.png",
+    "technologies": ["Astro", "TailwindCSS", "JavaScript", "React"],
+    "title": "Album | Journal",
+    "url": "https://arlx-album.vercel.app/"
+  }
 ]

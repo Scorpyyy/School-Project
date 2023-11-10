@@ -28,5 +28,10 @@
     "label": "Git",
     "img": "./assets/icons/git.svg",
     "alt": "Git logotype"
+  },
+  {
+    "label": "Astro",
+    "img": "./assets/icons/astro.svg",
+    "alt": "Astro logotype"
   }
 ]
