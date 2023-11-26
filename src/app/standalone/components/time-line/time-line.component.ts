@@ -11,6 +11,7 @@ import { EducationExperience } from '../../../portfolio/types/portfolio-types';
   styles: [],
 })
 export class TimeLineComponent {
+  showImage: boolean = false;
   @Input()
   public text: string = '';
   @Input()

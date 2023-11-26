@@ -10,6 +10,7 @@ export interface Education {
   href?: string;
   initialDate: string;
   title: string;
+  url?: string;
 }
 
 export interface Experience {
